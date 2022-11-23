@@ -6,5 +6,6 @@ public class WaterBottle {
 	private String name;
 	private double price;
 	
+	// write setter and getter,as well tostring after delte comment
 	
 }
